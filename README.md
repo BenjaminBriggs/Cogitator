@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Cogitator.jpg" alt="Cogitator" width="200">
+  <img src="Cogitator.jpg" alt="Cogitator" width="300">
 </p>
 
 # Cogitator
