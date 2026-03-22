@@ -42,11 +42,6 @@ Ask Claude anything about WH40K 10th Edition units, weapons, detachments, or arm
 - "Compare Boyz vs Hormagaunts"
 - "What enhancements does the Gladius Task Force have?"
 
-## Companion skills
-
-- **wh40k-rules-ref** — Core rules, combat sequencing, phase interactions, errata
-- **bsdata-reader** — Raw BattleScribe XML catalogue parsing
-
 ## License
 
 This skill is a fan-made reference tool. Warhammer 40,000 is a trademark of Games Workshop Ltd. All game content belongs to Games Workshop.
