@@ -170,21 +170,6 @@ Read both datasheets and present stats side-by-side in a table.
 Read relevant datasheets for points, composition, and keywords. Check
 detachment for synergies.
 
-## Relationship to other WH40K skills
-
-- **wh40k-rules-ref** — Handles core rules, combat sequencing, phase order,
-  terrain rules, and errata. Defer to it for "is this legal" / "what's the
-  sequence" questions. It also has a combat quick-reference with the wound
-  roll table and weapon ability summaries.
-- **bsdata-reader** — Parses raw BattleScribe XML. The data here is
-  pre-extracted and easier to read, but bsdata-reader can answer questions
-  about catalogue structure or entries not yet in this dataset.
-
-When a question spans both stat lookup and rules interpretation (e.g. "can my
-Intercessors shoot after Advancing with bolt rifles?"), read the datasheet
-here for the weapon keywords, then defer to wh40k-rules-ref for the rules
-interaction.
-
 ## Quick reference: common keyword effects
 
 These weapon keywords appear throughout datasheets. Knowing them helps you
