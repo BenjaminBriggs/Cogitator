@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Cogitator.jpg" alt="Cogitator" width="300">
+  <img src="assets/Cogitator.jpg" alt="Cogitator" width="300">
 </p>
 
 # Cogitator
@@ -47,5 +47,7 @@ Ask Claude anything about WH40K 10th Edition units, weapons, detachments, or arm
 - "What enhancements does the Gladius Task Force have?"
 
 ## License
+
+This project is licensed under the [MIT License](LICENSE).
 
 This skill is a fan-made reference tool. Warhammer 40,000 is a trademark of Games Workshop Ltd. All game content belongs to Games Workshop.
