@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Cogitator.jpeg" alt="Cogitator" width="200">
+</p>
+
 # Cogitator
 
 A Claude skill for Warhammer 40,000 (10th Edition) — query the complete dataset of unit datasheets, detachment rules, army rules, stratagems, and enhancements across all factions.
