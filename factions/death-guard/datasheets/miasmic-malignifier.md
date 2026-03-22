@@ -1,0 +1,65 @@
+# Miasmic Malignifier
+
+**Role:** Fortifications
+
+*Festooned with swaying plague censers and tainted bells, Miasmic Malignifiers belch thick fumes from their rusted chimneys. Sown like spores across worlds, they are parasites that suck filth from the ground and latch themselves onto local infrastructure, polluting a planet on every level.*
+
+| M | T | Sv | W | Ld | OC |
+|---|---|---|---|---|---|
+| - | 10 | 3+ | 12 | 6+ | 0 |
+
+**Invulnerable Save:** -
+
+**Default Wargear:**
+**This model is equipped with:** miasmic gouts.
+
+**Ranged Weapons**
+| Name | Range | A | BS | S | AP | D | Keywords |
+|---|---|---|---|---|---|---|---|
+| Miasmic gouts | 9 | 2D6 | N/A | 3 | 0 | 1 | ignores cover, torrent |
+
+**Abilities:**
+- **Deadly Demise** (Core): DEADLY DEMISEFrom detonating ammo stores to corrosive innards or frenzied death throes, some targets are deadly even in defeat.
+
+Some models have ‘Deadly Demise x’ listed in their abilities. When such a model is destroyed, roll one D6 before removing it from play (if such a model is a TRANSPORT, roll before any embarked models disembark). On a 6, each unit within 6" of that model suffers a number of mortal wounds denoted by ‘x’ (if this is a random number, roll separately for each unit within 6").
+
+**Example:** A TRANSPORT model with the Deadly Demise D3 ability is destroyed. Before any models disembark and before removing it from play, its controlling player rolls one D6, getting a 6. There are three units within 6" of that destroyed model, so its controlling player rolls one D3 for each of them, inflicting mortal wounds accordingly.
+- **Deadly Demise x:** When this model is destroyed, roll one D6. On a 6, each unit within 6" suffers ‘x’ mortal wounds.
+- **Nurgle’s Gift (Aura)** (Faction): If your Army Faction is DEATH GUARD, while an enemy unit is within Contagion Range of one or more Death Guard models from your army, it is Afflicted (see below).
+
+CONTAGION RANGE
+Contagion Range changes over the course of the battle:
+
+AFFLICTED
+During the Declare Battle Formations step, select one of the Plagues below. Until the end of the battle, while an enemy unit is Afflicted, subtract 1 from the Toughness characteristic of models in that unit, and that unit has the effect of your chosen Plague.Skullsquirm Blight
+
+This horrifying affliction sees the minds and senses of the victim gnawed gradually away from within.
+
+Each time a model in this unit makes an attack, subtract 1 from the Hit roll.
+
+Rattlejoint Ague
+
+Limbs shuddering with fever palsy, bones turned brittle as glass, these warriors can barely act to defend themselves.
+
+Worsen the Save characteristic of models in this unit by 1.
+
+Scabrous Soulrot
+
+Victims of this insidious ailment become glassy eyed and morose as their very animus and essence decay.
+
+Worsen the Move, Leadership, and Objective Control characteristics of models in this unit by 1 (this rule can only worsen a model’s Objective Control characteristic to a minimum of 1).
+- **Putrescent Fog (Aura)** (Datasheet): Enemy units that are set up on the battlefield as Reinforcements cannot be set up within 12" of this model.
+- **Diseased Cover** (Datasheet): Each time a ranged attack is allocated to a model, if that model is not fully visible to the attacking unit because of this Fortification, that model has the Benefit of Cover against that attack.
+- **Fortification** (Datasheet): While an enemy unit is only within Engagement Range of one or more FORTIFICATIONS from your army:
+- That unit can still be selected as the target of ranged attacks, but each time such an attack is made, unless it is made with a Pistol, subtract 1 from the Hit roll.
+- Models in that unit do not need to take Desperate Escape tests due to Falling Back while Battle-shocked, except for those that will move over enemy models when doing so.
+- **DEPLOYMENT** (Fortification (левая колонка)): Both parts of this FORTIFICATION must be set up within 1" of each other. Both parts are then treated as a single model for all rules purposes.
+
+**Keywords:** Miasmic Malignifier, Chaos, Fortification, Nurgle
+**Faction Keywords:** , Death Guard
+
+**Unit Composition:**
+- 1 Miasmic Malignifier
+
+**Points:**
+- 1 model: 105pts

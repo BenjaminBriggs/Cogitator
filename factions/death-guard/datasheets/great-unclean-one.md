@@ -1,0 +1,67 @@
+# Great Unclean One
+
+**Role:** Characters
+
+*These greater daemons possess the same boundless energy and drive to corrupt as a swift-spreading virus. Their booming voices roll across the battlefield, their cruel jollity and the perverse pride they take in their underlings’ achievements horribly at odds with the misery and disease they spread.*
+
+| M | T | Sv | W | Ld | OC |
+|---|---|---|---|---|---|
+| 7" | 12 | 5+ | 20 | 6+ | 5 |
+
+**Invulnerable Save:** 4
+
+**Default Wargear:**
+**This model is equipped with:** plague flail; putrid vomit; bilesword.
+
+**Ranged Weapons**
+| Name | Range | A | BS | S | AP | D | Keywords |
+|---|---|---|---|---|---|---|---|
+| Plague flail | 6 | D6+1 | 3 | 7 | -2 | 2 | — |
+| Putrid vomit | 12 | D6+3 | N/A | 5 | -2 | 1 | ignores cover, torrent |
+
+**Melee Weapons**
+| Name | Range | A | WS | S | AP | D | Keywords |
+|---|---|---|---|---|---|---|---|
+| Bileblade | Melee | 3 | 2 | 6 | -2 | 2 | extra attacks, lethal hits |
+| Bilesword – strike | Melee | 6 | 2 | 10 | -2 | D6+1 | lethal hits |
+| Bilesword – sweep | Melee | 12 | 2 | 7 | -1 | 1 | lethal hits |
+| Doomsday bell | Melee | 6 | 2 | 7 | -1 | 2 | lethal hits, Reverberating summons |
+
+**Abilities:**
+- **Deadly Demise** (Core): DEADLY DEMISEFrom detonating ammo stores to corrosive innards or frenzied death throes, some targets are deadly even in defeat.
+
+Some models have ‘Deadly Demise x’ listed in their abilities. When such a model is destroyed, roll one D6 before removing it from play (if such a model is a TRANSPORT, roll before any embarked models disembark). On a 6, each unit within 6" of that model suffers a number of mortal wounds denoted by ‘x’ (if this is a random number, roll separately for each unit within 6").
+
+**Example:** A TRANSPORT model with the Deadly Demise D3 ability is destroyed. Before any models disembark and before removing it from play, its controlling player rolls one D6, getting a 6. There are three units within 6" of that destroyed model, so its controlling player rolls one D3 for each of them, inflicting mortal wounds accordingly.
+- **Deadly Demise x:** When this model is destroyed, roll one D6. On a 6, each unit within 6" suffers ‘x’ mortal wounds.
+- **Deep Strike** (Core): DEEP STRIKESome units make their way to battle via tunnelling, teleportation, high-altitude descent or other extraordinary means that allow them to appear suddenly in the thick of the fighting.
+
+During the Declare Battle Formations step, if every model in a unit has this ability, you can set it up in Reserves instead of setting it up on the battlefield. If you do, in the Reinforcements step of one of your Movement phases you can set up this unit anywhere on the battlefield that is more than 9" horizontally away from all enemy models. If a unit with the Deep Strike ability arrives from Strategic Reserves, the controlling player can choose for that unit to be set up either using the rules for Strategic Reserves or using the Deep Strike ability. 
+- Unit can be set up in Reserves instead of on the battlefield.
+- Unit can be set up in your Reinforcements step, more than 9" horizontally away from all enemy models.
+- **Feel No Pain** (Core): FEEL NO PAINSome warriors refuse to be laid low, even by what should be fatal wounds.
+
+Some models have ‘Feel No Pain x+’ listed in their abilities. Each time a model with this ability suffers damage and so would lose a wound (including wounds lost due to mortal wounds), roll one D6: if the result is greater than or equal to the number denoted by ‘x’, that wound is ignored and is not lost. If a model has more than one Feel No Pain ability, you can only use one of those abilities each time that model suffers damage and so would lose a wound.
+
+- **Feel No Pain x+:** Each time this model would lose a wound, roll one D6: if the result equals or exceeds ‘x’, that wound is not lost.
+- **Pact of Decay** (Faction): When mustering your army, unless specifically stated otherwise, you cannot select Plague Legions as your Army Faction.
+- **Daemon Lord of Nurgle (Aura)** (Datasheet): While a friendly Plague Legions unit is within 6" of this model, add 1 to the Toughness characteristic of models in that unit.
+- **Nurgle’s Rot (Psychic)** (Datasheet): At the end of your Movement phase, you can select one enemy unit within 12" of this model. Until the start of your next Movement phase, that unit is rotted. While a unit is rotted, subtract 1 from the Toughness characteristic of models in that unit.
+- **Reverberating Summons** (Wargear profile): Each time a model is destroyed by this weapon, you can select one friendly Plaguebearers unit within 12" of the bearer and return 1 destroyed Plaguebearer model to that unit.
+
+**Keywords:** Chaos, Great Unclean One, Summoned, Daemon, Character, Psyker, Nurgle, Monster
+**Faction Keywords:** , Plague Legions
+
+**Unit Composition:**
+- 1 Great Unclean One
+
+**Wargear Options:**
+- This model’s plague flail can be replaced with 1 bileblade.
+- This model’s bilesword can be replaced with 1 doomsday bell.
+
+**Damaged Profile:**
+Remaining Wounds: 1-7
+While this model has 1-7 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.
+
+**Points:**
+- 1 model: 250pts

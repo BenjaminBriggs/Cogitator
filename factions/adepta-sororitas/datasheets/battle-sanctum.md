@@ -1,0 +1,59 @@
+# Battle Sanctum
+
+**Role:** Fortifications
+
+| M | T | Sv | W | Ld | OC |
+|---|---|---|---|---|---|
+| - | 11 | 3+ | 20 | 7+ | 0 |
+
+**Invulnerable Save:** -
+
+**Default Wargear:**
+**This model is equipped with:** nothing.
+
+**Ranged Weapons**
+| Name | Range | A | BS | S | AP | D | Keywords |
+|---|---|---|---|---|---|---|---|
+|  |  | 0 | - | - | 0 | - | — |
+
+**Abilities:**
+- **Deadly Demise** (Core): DEADLY DEMISEFrom detonating ammo stores to corrosive innards or frenzied death throes, some targets are deadly even in defeat.
+
+Some models have ‘Deadly Demise x’ listed in their abilities. When such a model is destroyed, roll one D6 before removing it from play (if such a model is a TRANSPORT, roll before any embarked models disembark). On a 6, each unit within 6" of that model suffers a number of mortal wounds denoted by ‘x’ (if this is a random number, roll separately for each unit within 6").
+
+**Example:** A TRANSPORT model with the Deadly Demise D3 ability is destroyed. Before any models disembark and before removing it from play, its controlling player rolls one D6, getting a 6. There are three units within 6" of that destroyed model, so its controlling player rolls one D3 for each of them, inflicting mortal wounds accordingly.
+- **Deadly Demise x:** When this model is destroyed, roll one D6. On a 6, each unit within 6" suffers ‘x’ mortal wounds.
+- **Acts of Faith** (Faction): If your Army Faction is ADEPTA SORORITAS, each unit from your army with this ability can perform one Act of Faith per phase. This is done using Miracle dice.
+
+GAINING MIRACLE DICE
+If your Army Faction is ADEPTA SORORITAS, you gain 1 Miracle dice:
+- At the start of each battle round.
+- Each time an ADEPTA SORORITAS unit from your army is destroyed.
+
+Each time you gain a Miracle dice, roll one D6. The number you roll is the value of that Miracle dice. This value cannot be changed or re-rolled, unless a rule specifically states otherwise. Keep your Miracle dice to one side - this is your Miracle dice pool.
+
+PERFORMING AN ACT OF FAITH
+Before making a dice roll for a model or unit from your army with the Acts of Faith ability, if you have one or more dice in your Miracle dice pool, that unit can perform an Act of Faith. If it does, select one of the dice from your Miracle dice pool to substitute that dice roll (if a roll involves more than one dice, e.g. a Charge roll or Battle-shock test, only a single dice can be substituted). The dice that is being substituted is not rolled; instead, the value of the selected Miracle dice is used as if it had been rolled ( this counts as an unmodified dice roll of that value for all rules purposes). Each Miracle dice can only be selected for substitution once. Once all Miracle dice substitutions have been made, remove the chosen Miracle dice from your Miracle dice pool, and roll all remaining, unsubstituted dice that are a part of the dice roll. You can use Miracle dice when a unit performs an Act of Faith for any of the following types of dice roll:
+- Advance roll
+- Battle-shock test
+- Charge roll
+- Damage roll
+- Hit roll
+- Saving throw
+- Wound roll
+
+**Example:** *Instead of rolling 2D6 to take a unit’s Battle-shock test, you could use one dice from your Miracle dice pool. If the value of that dice was 4, the unit’s Battle-shock test would be determined by rolling one D6 and adding 4 to it (i.e. it would be D6+4).*
+- **Consecrated Ground** (Datasheet): When this FORTIFICATION is set up, all parts of it must be set up within 1" of another part. Friendly Adepta Sororitas Infantry models can be set up or end any type of move on top of the floor sections of this FORTIFICATION. While an ADEPTA SORORITAS unit from your army is within 1" of this FORTIFICATION, that unit can perform one additional Act of Faith per phase.
+- **Holy Cover** (Datasheet): Each time a ranged attack is allocated to a model, if that model is not fully visible to every model in the attacking unit because of this Fortification, that model has the Benefit of Cover against that attack.
+- **FORTIFICATION** (Primarch): While an enemy unit is only within Engagement Range of one or more Fortifications from your army: 
+- That unit can still be selected as the target of ranged attacks, but each time such an attack is made, unless it is made with a Pistol, subtract 1 from the Hit roll. 
+- Models in that unit do not need to take Desperate Escape tests due to Falling Back while Battle- shocked, except for those that will move over enemy models when doing so.
+
+**Keywords:** Fortification, Battle Sanctum, Towering, Imperium
+**Faction Keywords:** Adepta Sororitas
+
+**Unit Composition:**
+- 1 Battle Sanctum
+
+**Points:**
+- 1 model: 170pts
